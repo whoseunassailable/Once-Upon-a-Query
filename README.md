@@ -24,7 +24,6 @@ Uncover ghostly business records with WHERE conditions.
 Analyze crime data using GROUP BY and COUNT.
 Who’s the Wealthiest Ghost?: Determine the richest citizens with ORDER BY and LIMIT.
 
-
 #### Join the Haunting: 
 Connect data between citizens and businesses with JOIN queries.
 
